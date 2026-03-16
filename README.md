@@ -21,5 +21,4 @@ Flaskの基本的なWebアプリ開発を学ぶために作成しました。
 ```bash
 pip install -r requirements.txt
 python app.py
-ブラウザで以下にアクセス：
-http://127.0.0.1:5000
+ブラウザで　http://127.0.0.1:5000　にアクセスecho 

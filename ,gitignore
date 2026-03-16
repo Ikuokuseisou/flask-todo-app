@@ -1,0 +1,4 @@
+.venv/
+__pyanshe__/
+*.pyc
+.env
